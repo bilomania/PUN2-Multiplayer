@@ -6,3 +6,6 @@ Player 1 view (player1 turn)
 
 Player 2 view (player1 turn still)
 ![image](https://github.com/bilomania/PUN2-Multiplayer/assets/44416264/7f064d43-e2c6-422c-ba8a-c40bb650f7eb)
+
+Take a look
+https://youtu.be/8keVvxcDXiM
