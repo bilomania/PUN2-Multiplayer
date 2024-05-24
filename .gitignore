@@ -1,0 +1,19 @@
+# Ignore dynamic library files
+*.dylib
+
+# Other ignores...
+Library/
+Temp/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
